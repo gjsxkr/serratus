@@ -163,7 +163,7 @@ img {
 @media (max-width: 768px) {
     img {
         position: fixed;
-        top: 80%;
+        top: 95%;
         left: -80%;
         min-width: 100%;
         min-height: 100%;
