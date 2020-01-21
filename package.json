@@ -1,6 +1,6 @@
 {
     "title": "Coming Soon",
-    "name": "startbootstrap-coming-soon",
+    "name": "Serratus",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
